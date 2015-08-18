@@ -1,0 +1,29 @@
+{
+  "name": "object-squish",
+  "version": "1.0.0",
+  "description": "Flatten nested objects to a single level",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.spec.js"
+  },
+  "keywords": [
+    "flatten",
+    "squish",
+    "squash"
+  ],
+  "author": "stickycube",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "chai": "~3.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StickyCube/object-squish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/StickyCube/object-squish/issues"
+  }
+}
