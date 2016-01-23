@@ -1,6 +1,6 @@
 {
   "name": "object-squish",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Flatten nested objects to a single level",
   "main": "index.js",
   "scripts": {

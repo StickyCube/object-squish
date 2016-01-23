@@ -89,6 +89,10 @@ Change the keys of the object, this can be one of:
 
 `Function` -> a function which is passed the key and returns the modified key
 
+#### options.stopWhen
+
+A predicate, called with the object being processed, returning a boolean indicating whether to descend into the object or not.
+
 ## Usage Examples
 
 #### Example using modifyKey
